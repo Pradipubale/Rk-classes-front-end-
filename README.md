@@ -27,7 +27,7 @@
 </ul><ul>
 <li>Footer with developer acknowledgment.</li>
 </ul><h5>Steps</h5><ul>
-<li>Clone this repository: https://github.com/zuberkhan01st/RK-Classes-Front-End-Project</li>
+<li>Clone this repository:https://github.com/Pradipubale/Rk_classes.github.io</li>
 </ul><ul>
 <li>cd rk-classes</li>
 </ul><h2>Contact</h2>
