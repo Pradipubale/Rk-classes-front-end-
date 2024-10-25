@@ -61,9 +61,6 @@ Connect with the project developers:
 For any questions or feedback, feel free to reach out on LinkedIn or explore other projects on GitHub.
 
 License
-This project is open-source and available under the MIT License.
 
-css
-Copy code
 
 This `README.md` provides an organized, professional, and easy-to-follow layout, making the information clear a
